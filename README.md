@@ -1,7 +1,7 @@
 Introdução
-A analise abaixo foi realizada com dados sinteticos, criados por mim mesmo utilizando o FAKER.<br>
+A analise abaixo foi realizada com dados sinteticos, utilizando o FAKER.<br>
 
-A intençao aqui é realizar analises das informacoes de uma loja fake de pneus.<br>
+O objetivo é realizar analises das informacoes de uma loja fake de pneus.<br>
 
 Questoes a serem respondidas:<br>
 
